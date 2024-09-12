@@ -2,7 +2,7 @@ const noBtn = document.getElementById('noBtn');
 const yesBtn = document.getElementById('yesBtn');
 
 yesBtn.addEventListener('click', function() {
-    alert('Thanks for accepting!');
+    alert('Thanks for accepting! He loves u too ❤️');
 });
 
 noBtn.addEventListener('mouseover', function() {
